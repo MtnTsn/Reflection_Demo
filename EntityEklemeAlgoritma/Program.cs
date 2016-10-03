@@ -8,7 +8,7 @@ namespace EntityEklemeAlgoritma
         private static void Main(string[] args)
         {
 
-            #region Deneme nesneleri
+            #region Mock objects
             Category entity1 = new Category()
             {
                 Id = 1,
